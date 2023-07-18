@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zivoradt
-- 👀 I’m interested in Backend developement
-- 🌱 I’m currently learning C++, MySQL, MongoDB, JavaScript, Node.js, Express and React.
-- 💞️ I’m looking to collaborate on backend project with touch with front end side.
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Node.js, Express, React, Angular,  MySQL, MongoDB, PostgreSQL.
+- 💞️ I’m looking to collaborate on a backend project with touch with the front end side.
 - 📫 How to reach me https://www.linkedin.com/in/zivoradtrickovic/
 
 <!---
